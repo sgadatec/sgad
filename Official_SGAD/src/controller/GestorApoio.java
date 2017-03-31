@@ -6,7 +6,7 @@ import model.Utente;
 
 public class GestorApoio {
 
-	ArrayList<Apoio> arrApoio;
+	public ArrayList<Apoio> arrApoio;
 	
 	public GestorApoio()
 	{

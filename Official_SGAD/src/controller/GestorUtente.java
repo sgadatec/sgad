@@ -6,11 +6,11 @@ import model.Utente;
 public class GestorUtente 
 {
 	
-	ArrayList<Utente> arrUtentes;
+	public ArrayList<Utente> arrUtente;
 	
 	public GestorUtente()
 	{
-		arrUtentes = new ArrayList<Utente>();
+		arrUtente = new ArrayList<Utente>();
 
 	}
 	
@@ -18,6 +18,6 @@ public class GestorUtente
 	{
 		Utente x = new Utente(id, nome, dataNascimento, morada,contacto); 
 
-		arrUtentes.add(x);
+		arrUtente.add(x);
 	}
 }
