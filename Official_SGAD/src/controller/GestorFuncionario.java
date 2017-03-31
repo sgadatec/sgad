@@ -9,7 +9,7 @@ public class GestorFuncionario {
 	
 	public GestorFuncionario()
 	{
-		arrFuncionario = new ArrayList<>();
+		arrFuncionario = new ArrayList<Funcionario>();
 		
 	}
 	

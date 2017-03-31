@@ -10,7 +10,7 @@ public class GestorApoio {
 	
 	public GestorApoio()
 	{
-		arrApoio = new ArrayList<>();
+		arrApoio = new ArrayList<Apoio>();
 		
 	}
 	

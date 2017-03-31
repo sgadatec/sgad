@@ -13,7 +13,7 @@ public class GestorFichaUtente {
 	
 	public GestorFichaUtente()
 	{
-		arrFichaUtente = new ArrayList<>();
+		arrFichaUtente = new ArrayList<FichaUtente>();
 		
 	}
 	

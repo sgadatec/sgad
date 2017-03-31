@@ -10,7 +10,7 @@ public class GestorUtente
 	
 	public GestorUtente()
 	{
-		arrUtentes = new ArrayList<>();
+		arrUtentes = new ArrayList<Utente>();
 
 	}
 	
