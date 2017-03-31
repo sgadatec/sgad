@@ -5,7 +5,7 @@ import model.Funcionario;
 
 public class GestorFuncionario {
 
-	ArrayList<Funcionario> arrFuncionario;
+	public ArrayList<Funcionario> arrFuncionario;
 	
 	public GestorFuncionario()
 	{
